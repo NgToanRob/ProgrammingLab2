@@ -18,7 +18,7 @@
 ![pokemons](./static/pokemons.png)
 
 ## 2. Диаграмма классов
-![diagrams](./static/PokemonDiagram.png)
+![diagrams](./static/PokemonDiagram.pdf)
 
 ## 3. Исходный код
 
@@ -203,5 +203,83 @@ public class FurySwipes extends PhysicalMove {
     }
 }
 ```
+
+## 3. Резунтат
+```java
+Fight!!!
+Simisage Nguyễn Văn A из команды синих вступает в бой!
+Zekrom Đặng Thị C из команды зеленых вступает в бой!
+Simisage Nguyễn Văn A Use Jump Kick.
+Zekrom Đặng Thị C теряет 5 здоровья.
+
+Zekrom Đặng Thị C Use Slash.
+Simisage Nguyễn Văn A теряет 12 здоровья.
+
+Simisage Nguyễn Văn A Use Gyro Ball.
+Zekrom Đặng Thị C восстанавливает 1 здоровья.
+
+Zekrom Đặng Thị C Use X-Scissor.
+Simisage Nguyễn Văn A теряет 12 здоровья.
+Simisage Nguyễn Văn A теряет сознание.
+Zekrom Trần Thị B из команды синих вступает в бой!
+Zekrom Trần Thị B Use Slash.
+Zekrom Đặng Thị C теряет 10 здоровья.
+Zekrom Đặng Thị C теряет сознание.
+Pansage Hứa Văn Hẹn из команды зеленых вступает в бой!
+Pansage Hứa Văn Hẹn Use Jump Kick.
+Zekrom Trần Thị B теряет 5 здоровья.
+
+Zekrom Trần Thị B Use Thunder.
+Pansage Hứa Văn Hẹn теряет 4 здоровья.
+
+Pansage Hứa Văn Hẹn Use Fury Swipes.
+Zekrom Trần Thị B теряет 6 здоровья.
+
+Zekrom Trần Thị B Use Thunder.
+Pansage Hứa Văn Hẹn теряет 4 здоровья.
+
+Pansage Hứa Văn Hẹn Use Jump Kick.
+Zekrom Trần Thị B теряет 7 здоровья.
+Zekrom Trần Thị B теряет сознание.
+Weepinbell Nhốc из команды синих вступает в бой!
+Pansage Hứa Văn Hẹn промахивается
+
+Weepinbell Nhốc Use Earthquake.
+Критический удар!
+Pansage Hứa Văn Hẹn теряет 18 здоровья.
+Pansage Hứa Văn Hẹn теряет сознание.
+Bellsprout Hihi из команды зеленых вступает в бой!
+Weepinbell Nhốc Use Earthquake.
+
+Bellsprout Hihi Use Earthquake.
+
+Weepinbell Nhốc Use Leech Life.
+Bellsprout Hihi теряет 5 здоровья.
+
+Bellsprout Hihi Use Earthquake.
+
+Weepinbell Nhốc Use Leech Life.
+Bellsprout Hihi теряет 6 здоровья.
+
+Bellsprout Hihi Use Leech Life.
+Weepinbell Nhốc теряет 4 здоровья.
+Bellsprout Hihi восстанавливает 5 здоровья.
+
+Weepinbell Nhốc Use Stun Spore.
+Bellsprout Hihi парализован
+
+Bellsprout Hihi Use Earthquake.
+Критический удар!
+
+Bellsprout Hihi Use Earthquake.
+Критический удар!
+Weepinbell Nhốc теряет 22 здоровья.
+Weepinbell Nhốc теряет сознание.
+В команде синих не осталось покемонов.
+Команда зеленых побеждает в этом бою!
+```
+
+## 4. Вывод
+Во время выполнения данной лабораторной работы я изучил основные принципы ООП, научился работать с методами, классами, модификаторами доступами и сторонними библиотеками.
 
 
