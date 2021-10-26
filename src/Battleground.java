@@ -22,6 +22,7 @@ class Battleground {
         b.addFoe(p6);
 
         // Fight!!!
+        System.out.print("Fight!!!\n");
         b.go();
     }
 }

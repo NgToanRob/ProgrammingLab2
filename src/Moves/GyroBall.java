@@ -8,7 +8,7 @@ public class GyroBall extends PhysicalMove {
         super(Type.STEEL, 0, 100);
     }
 
-    public double seflSpeed;
+    private double seflSpeed;
 
     @Override
     protected void applySelfDamage(Pokemon p, double dame){

@@ -18,7 +18,7 @@
 ![pokemons](./static/pokemons.png)
 
 ## 2. Диаграмма классов
-![diagrams](./static/PokemonDiagram.pdf)
+![diagrams](./static/PokemonDiagram.png)
 
 ## 3. Исходный код
 
